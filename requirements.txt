@@ -1,0 +1,8 @@
+# Core
+opencv-python>=4.8.0
+mediapipe>=0.10.0
+numpy>=1.24.0
+
+# Windows volume control (optional — install only on Windows)
+# pycaw>=20181226
+# comtypes>=1.2.0
